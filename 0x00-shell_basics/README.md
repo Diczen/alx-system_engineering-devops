@@ -36,14 +36,3 @@
 
 9-firstdirdeletion:          text/plain
 
-fake_school0:                text/plain
-
-fake_school1:                text/plain
-
-file_school0:                School
-
-file_school1:                School
-
-file_test0:                  inode/x-empty
-
-h_school.mgc:                application/octet-stream

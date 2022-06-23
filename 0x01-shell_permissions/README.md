@@ -9,4 +9,5 @@ This is a README file for the task on Shell Permission
 8-James_Bond: A script sets the permission to the file hello as follows
 9-John_Doe: a script that sets the mode of the file hello
 10-mirror_permissions: a script that sets the mode of the file hello the same as olleh’s mode
+11-directories_permissions:  adds execute permission to all subdirectories of the current directory
 

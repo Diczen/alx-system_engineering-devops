@@ -46,4 +46,4 @@ file_school1:                School
 
 file_test0:                  inode/x-empty
 
-h_school.mgc:                a...
+h_school.mgc:                application/octet-stream

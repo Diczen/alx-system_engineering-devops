@@ -10,4 +10,5 @@ This is a README file for the task on Shell Permission
 9-John_Doe: a script that sets the mode of the file hello
 10-mirror_permissions: a script that sets the mode of the file hello the same as olleh’s mode
 11-directories_permissions:  adds execute permission to all subdirectories of the current directory
+12-directory_permissions:  creates a directory called my_dir with permissions 751
 

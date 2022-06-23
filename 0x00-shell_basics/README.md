@@ -1,40 +1,40 @@
-0-current_working_directory: prints the absolute path name of working directory
+0-current_working_directory: text/plain
 
-100-lets_move:  Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+100-lets_move:               text/plain
 
-101-clean_emacs:  Create a script that deletes all files in the current working directory that end with the character ~.
+101-clean_emacs:             text/plain
 
-102-tree:    Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+102-tree:                    text/plain
 
-103-commas:    Write a command that lists all the files and directories of the current directory, separated by commas (,).
+103-commas:                  text/plain
 
-10-back:  Write a script that changes the working directory to the previous one.
+10-back:                     text/plain
 
-11-lists:  Write a script that lists all files
+11-lists:                    text/plain
 
-12-file_type:   Write a script that prints the type of the file named iamafile
+12-file_type:                text/plain
 
-13-symbolic_link:   Create a symbolic link to /bin/ls, named __ls__
+13-symbolic_link:            text/plain
 
-14-copy_html: Create a script that copies all the HTML files from the current working directory to the parent of the working directory
+14-copy_html:                text/plain
 
-1-listit:     Display the contents list of your current directory.
+1-listit:                    text/plain
 
-2-bring_me_home: changes the working directory to the user’s home directory.
+2-bring_me_home:             text/plain
 
-3-listfiles: Display current directory contents in a long format
+3-listfiles:                 text/plain
 
-4-listmorefiles:   Display current directory contents including hidden files
+4-listmorefiles:             text/plain
 
-5-listfilesdigitonly:  Display current directory contents.
+5-listfilesdigitonly:        text/plain
 
-6-firstdirectory:  Create a script that creates a directory named my_first_directory in the /tmp/ directory
+6-firstdirectory:            text/plain
 
-7-movethatfile:  Move the file betty from /tmp/ to /tmp/my_first_directory.
+7-movethatfile:              text/plain
 
-8-firstdelete:  Delete the file betty.
+8-firstdelete:               text/plain
 
-9-firstdirdeletion:  Delete the directory my_first_directory that is in the /tmp directory.
+9-firstdirdeletion:          text/plain
 
 fake_school0:                text/plain
 

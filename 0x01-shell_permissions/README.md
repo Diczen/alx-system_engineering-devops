@@ -6,4 +6,4 @@ This is a README file for the task on Shell Permission
 5-execute: script that adds execute permission to the owner of the file hello
 6-multiple_permissions: a script that adds execute permission to the owner and the group owner
 7-everybody: a script that adds execution permission to the owner, the group owner and other uses to the file hello
-
+8-James_Bond: A script sets the permission to the file hello as follows
